@@ -1,5 +1,6 @@
 ## Jazbaa Sound Music Ecommerce Store
 Modern Full Stack ECommerce Application with Stripe & Sanity
+# for demo [click](ecommerce-jsm-lakshay-9818.vercel.app)
 ![eCommerce](https://user-images.githubusercontent.com/70088342/160780701-7bb38a57-76bd-49a2-a4ec-49f89c50a7c7.png)
 
 -Integrated Stripe to manage payments, products, shipping rates, and the entire checkout process
